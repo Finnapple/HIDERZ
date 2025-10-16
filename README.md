@@ -70,7 +70,7 @@ Anyone familiar with batch scripting or system internals can potentially bypass 
 Use responsibly.
 
 ### 📜 License
-MIT License © 2025 huwamee
+MIT License © 2025 Finnapple
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
