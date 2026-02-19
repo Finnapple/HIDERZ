@@ -15,7 +15,7 @@ ECHO ███████║██║██║  ██║█████╗  �
 ECHO ██╔══██║██║██║  ██║██╔══╝  ██╔══██╗ ███╔╝  
 ECHO ██║  ██║██║██████╔╝███████╗██║  ██║███████╗
 ECHO ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-ECHO DEVELOPED BY: whoami
+ECHO DEVELOPED BY: Finnapple
 ECHO.
 
 set /p "cho=Are you sure you want to hide this folder? (Y/N): "
@@ -40,7 +40,7 @@ ECHO ███████║██║██║  ██║█████╗  �
 ECHO ██╔══██║██║██║  ██║██╔══╝  ██╔══██╗ ███╔╝  
 ECHO ██║  ██║██║██████╔╝███████╗██║  ██║███████╗
 ECHO ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-ECHO DEVELOPED BY: whoami
+ECHO DEVELOPED BY: Finnapple
 ECHO.
 
 setlocal enabledelayedexpansion
