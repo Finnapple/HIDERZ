@@ -1,20 +1,20 @@
-# 🔒 HIDERZ v1.0 — Folder Hider & Locker
+# HIDERZ v1.0 — Folder Hider & Locker
 
 > A lightweight Windows batch script that hides and locks folders with a password — no installations, no admin rights, pure `.bat` magic.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 **Lock & Hide Any Folder** — instantly hides your folder and makes it inaccessible
-- 🔑 **Password-Protected Access** — only the correct password reveals the folder
-- 👻 **System Attribute Cloaking** — uses `+s +h` flags to hide from Windows Explorer
-- 🚫 **Zero Dependencies** — no installs, no admin rights, no external tools
-- ⚡ **Easy to Use** — set your password once, lock and unlock anytime
+- **Lock & Hide Any Folder** — instantly hides your folder and makes it inaccessible
+- **Password-Protected Access** — only the correct password reveals the folder
+- **System Attribute Cloaking** — uses `+s +h` flags to hide from Windows Explorer
+- **Zero Dependencies** — no installs, no admin rights, no external tools
+- **Easy to Use** — set your password once, lock and unlock anytime
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Windows 10 or 11
 - Basic file system permissions
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Download or clone the repo
 
@@ -51,7 +51,7 @@ HIDERZ.bat
 
 ---
 
-## 🔢 How It Works
+## How It Works
 
 | Action | What to Do |
 |---|---|
@@ -62,21 +62,21 @@ HIDERZ.bat
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
-- 🖥️ Hide sensitive files on shared or public PCs
-- 📂 Temporarily protect project folders or personal documents
-- 🔐 Quick, script-based privacy without third-party apps
+- Hide sensitive files on shared or public PCs
+- Temporarily protect project folders or personal documents
+- Quick, script-based privacy without third-party apps
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 HIDERZ uses Windows folder hiding techniques — **not encryption**. It is intended for **basic local privacy**, not high-security purposes. Anyone familiar with batch scripting or Windows internals may be able to bypass it. Use responsibly and do not rely on it for sensitive or critical data.
 
 ---
 
-## 📜 License
+## License
 
 MIT License © 2025 Finnapple
 
@@ -88,4 +88,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/Finnapple">Finnapple</a> — suggestions and forks welcome!</p>
+<p align="center">Made by <a href="https://github.com/Finnapple">Finnapple</a> — suggestions and forks welcome!</p>
